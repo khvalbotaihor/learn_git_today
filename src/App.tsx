@@ -27,6 +27,10 @@ function App() {
             <li>ggg</li>
         </ul>
         <p>new added description</p>
+        <p>
+            Edit <code>src/App.tsx</code> and save to reload.
+        </p>git@github.com:khvalbotaihor/learn_git_today.git
+        orKhvalbota\Documents\it-kamasutra\git_learn\
     </div>
   );
 }
