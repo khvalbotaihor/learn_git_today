@@ -33,6 +33,7 @@ function App() {
         orKhvalbota\Documents\it-kamasutra\git_learn\
         <hr/>
         <h1>1</h1>
+        <h2>2</h2>
     </div>
   );
 }
