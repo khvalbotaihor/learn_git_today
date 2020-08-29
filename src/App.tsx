@@ -27,11 +27,6 @@ function App() {
             <li>ggg</li>
         </ul>
         <p>new added description</p>
-        <hr/>
-        <p>Lorem ipsum dolor sit amet.</p>
-        <p>Perferendis placeat provident quisquam rerum?</p>
-        <p>Aut et excepturi fuga
-            magni.</p>
     </div>
   );
 }
